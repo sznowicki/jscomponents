@@ -1,0 +1,14 @@
+{
+  "name": "jscomponents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Szymon Nowicki <sznowicki@eskalacja.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "http-server -p 8080 -w"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
